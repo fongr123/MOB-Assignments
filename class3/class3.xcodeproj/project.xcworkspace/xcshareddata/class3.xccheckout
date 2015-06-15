@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>89C25A13-EFED-43AD-9841-C0830CC93BFB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5077E13F72AC513010B4A0F401E9A86A121C4EFA</key>
+		<string>https://github.com/fongr123/MOB-Assignments.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>class3/class3.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5077E13F72AC513010B4A0F401E9A86A121C4EFA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fongr123/MOB-Assignments.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5077E13F72AC513010B4A0F401E9A86A121C4EFA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5077E13F72AC513010B4A0F401E9A86A121C4EFA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MOB-Assignments</string>
+		</dict>
+	</array>
+</dict>
+</plist>
