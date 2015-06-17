@@ -12,6 +12,7 @@ class FirstViewController: UIViewController {
         helloAge (Name.text, userAge: Age.text)
         verifyAge()
         verifyDrive()
+        println()
         
     }
 
