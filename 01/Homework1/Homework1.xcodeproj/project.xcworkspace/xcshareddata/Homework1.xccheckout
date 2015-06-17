@@ -7,34 +7,34 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>68C8E25D-BFD4-411D-B8D6-F864C60C7C57</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Homework1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>220E1542E4A6CD7C7E1F98266D7B226F9D65E8AC</key>
-		<string>github.com:ga-students/MOB-HK-1.git</string>
+		<key>5077E13F72AC513010B4A0F401E9A86A121C4EFA</key>
+		<string>https://github.com/fongr123/MOB-Assignments.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Homework/01/Homework1/Homework1.xcodeproj/project.xcworkspace</string>
+	<string>01/Homework1/Homework1.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>220E1542E4A6CD7C7E1F98266D7B226F9D65E8AC</key>
-		<string>../../../../..</string>
+		<key>5077E13F72AC513010B4A0F401E9A86A121C4EFA</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:ga-students/MOB-HK-1.git</string>
+	<string>https://github.com/fongr123/MOB-Assignments.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>220E1542E4A6CD7C7E1F98266D7B226F9D65E8AC</string>
+	<string>5077E13F72AC513010B4A0F401E9A86A121C4EFA</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>220E1542E4A6CD7C7E1F98266D7B226F9D65E8AC</string>
+			<string>5077E13F72AC513010B4A0F401E9A86A121C4EFA</string>
 			<key>IDESourceControlWCCName</key>
-			<string>MOB-HK-1%20(course%20materials)</string>
+			<string>MOB-Assignments</string>
 		</dict>
 	</array>
 </dict>
